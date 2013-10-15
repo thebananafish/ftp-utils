@@ -1,0 +1,3 @@
+to fix this I need to mess with the security options for MySQL
+debian testing's version of MySQL has some new security option (on by default)
+that blocks the way this script accesses MySQL

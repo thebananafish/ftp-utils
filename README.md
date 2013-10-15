@@ -1,4 +1,4 @@
 ftp-utils
 =========
 
-ftp utilities for a large data dump
+utilities written for working with large ftp data
